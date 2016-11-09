@@ -1,6 +1,9 @@
 # React SPA 初始化项目模版
 > 2016年11月4日10:11:08
 
+```
+npm install
+```
 
 ### 参考文档
 * [ECMAScript 6入门](http://es6.ruanyifeng.com/)
